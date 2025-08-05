@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction Using Logistic Regression
+#  Customer Churn Prediction Using Logistic Regression 📊
 
 ## 📁 Project Overview
 
