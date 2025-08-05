@@ -72,8 +72,10 @@ Several experiments were performed by modifying input features and observing cha
 
 **Confusion matrix (best model):**
 
-[[22 3]
-[ 6 9]]
+<div>
+  <img src="images/confusion_matrix_after_removing_equip_balanced.png" alt="confusion_matrix_after_removing_equip_balanced.png
+" width="600" style="display: block; margin-bottom: 10px;"/>
+</div>
 
 
 🧠 **Interpretation:**
