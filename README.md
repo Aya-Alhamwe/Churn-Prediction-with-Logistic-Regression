@@ -76,6 +76,20 @@ Several experiments were performed by modifying input features and observing cha
 [ 6 9]]
 
 
+🧠 **Interpretation:**
+
+- ✅ **True Negatives (TN)**: 22 customers correctly predicted as not churned.
+- ❌ **False Positives (FP)**: 3 customers wrongly predicted as churned.
+- ❌ **False Negatives (FN)**: 6 customers wrongly predicted as not churned.
+- ✅ **True Positives (TP)**: 9 customers correctly predicted as churned.
+
+---
+
+## 📈 Visualizations
+
+- Bar plots of logistic regression coefficients show impact of each feature on churn.
+- Confusion matrices give clear visual of classification performance.
+
 ---
 
 ## 🚀 How to Run
